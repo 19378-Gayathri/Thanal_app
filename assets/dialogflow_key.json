@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "thanalchatbot-oacb",
+  "private_key_id": "fcf2064eddcea8e233c9f993fcf2d1e67878d672",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYs5jCA0LTHNoL\nWaJR5WjD+RE30RWCwCZCBtInWeVz2pB29PeiG5ag6yPLtiH5wro6yxErzSQFdQOg\nPoWxjkLQofJU1F4arxRIX63aQN8RuvDJky5ROQ9piSrg/D+YwVqUoq2G2w1Hg1kB\nP6hoDrvDqG1XxcApwa955Uc3e6fNtqb/sAbmWq1cTaYVxRUWBtFT3c8I4zVlHMES\nGLKhmtUbpsP2kxUuZvnhkNTAOuGGIOty86BGZAsSP4+KmYycSFXtVz5FhVwYPiS1\nmUqXRjW0PMKgZoVNqetmc7naR3a0zGuGNH8X70twWCnVwZdTtbo2cp4Q3LDQ/kSB\n7r+utIv1AgMBAAECggEAHC2ubXwTEnSr/dHYA6I7L1CR5povm+L0lp1gcnGEHr6L\nDozoLpI70g0BiJnUbS/fG4oQX4u7ZWJD6HB43g/LrGmCo3lCC2I81vRqHPlWiG2w\npeWXnkQ3Ntf5VWw3sNtjtfQ5cFHHtkbkKf9nHLDdxaF/Jmy2gjeHY+hmjFZuCZe7\nehWC9Pdq8OF98385VnP5K7jSYwlZkn+drDXDJmVQ+gyaJjjxzYTcytNy5ZCp6rMq\nbXsSiGrw42VrqzxaC+D/91AemXsEtC1juXA/jS+281epoBU9kIBrR/zgWAPI97HU\nwRiM8rQyPxs1mm/I5GwiDrvW+uPfXOf6VEjhLUw8gQKBgQDsXsxN1AOHOFWFeW3Q\nC3LQ7dviVvapff56moHs5BEo/AZiIIM7uNt7J7ngSjjL+ffzMspgXj9/Gn0veqmz\nbHoH/uZdtwawSlBrBc4OIjcIiQmqp722KjErjHZCh6pihF2XVtIT94s9jItWDYIo\n0F+26orn89FQVcuIvdQwYle/5QKBgQDqsqS6YQigol03eK2jrTwduf/Riw9vP9IH\nY3qsn027SF+M1BtDi9CEcWBOP/MUbNNxO16pAG5JFsBM7+nsC3x6+1sCwQiMd4fz\n/9Is+UHCb26LJuUUaxZYYcQFFZGS+SKxu0VmCsmuQ4YILrPELjtxdPFVLs1tUJ8U\njlspZcs60QKBgQDDt0bhlpCJUWr2xvHXVvNt7dWolytMcmfZKsAz3zAaSHwcmiEv\nvUP2uJEfFzXqJ4NYGxEZNFDNNKi9PIrxZvuwTS6AIIFoTVBDHZ5dc5Uv+xBG/veF\ns2/dSEPPmLfLNSCtpBT0tX7Uqt/gk/TXSJpIQfJcVzVUmIWcJtpgab2QxQKBgDdt\n1YXHIPh/IDDXqXq8kTQcF5TvmMeXdQ0Vq4VVYlBW+WoTNhUv0iFVfX89jzVFtnJJ\nqUOUvHc6jlQdXUvIMrAA6S+vU0uJd2xjAMpqW+OF2b+3gebem7pn7JmezHC/sjfz\nmKJO7e7gN6l7Di3JFXToP470rMOihM+gB1uxlNvhAoGAYq9Mp2hb3lZj5+/Ebs9h\nLfNmAjHkRBo2JK00sSbxIkRkxMEELdMSAQLEQOVsCxuybgtxe5gw6k0kAqiyngsr\nFCrbdkBSeA2Esw+svc0mBhDvLQxo58N2oHJV7mCEB7s5eu679vYCXZMmRF9g9v18\nfk9rHUNPS9CI1WSnkxl9v2Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "thanalchatbot@thanalchatbot-oacb.iam.gserviceaccount.com",
+  "client_id": "113923064190353185772",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/thanalchatbot%40thanalchatbot-oacb.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
