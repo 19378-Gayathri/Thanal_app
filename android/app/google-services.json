@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97072668677",
+    "project_id": "thanal-app-f10b4",
+    "storage_bucket": "thanal-app-f10b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97072668677:android:c0b97e786c58e90515bc6c",
+        "android_client_info": {
+          "package_name": "com.example.thanal_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCUOgMz5L_0TDFkib3nKsDTxUauz4A2Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
