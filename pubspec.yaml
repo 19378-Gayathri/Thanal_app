@@ -1,0 +1,48 @@
+name: thanal_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  easy_localization: ^3.0.2
+  geolocator: ^11.0.0
+  cupertino_icons: ^1.0.8
+  geocoding: ^2.0.5
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.16.0
+  http: ^0.13.5          # downgraded
+  shared_preferences: ^2.2.2
+  cloud_firestore: ^4.13.0
+  permission_handler: ^11.0.1
+  upi_india: ^3.0.1
+  speech_to_text: ^6.3.0
+  flutter_tts: ^3.7.0
+  dialogflow_grpc: ^0.2.9
+  googleapis_auth: ^1.4.1   # downgraded
+  intl: ^0.20.2
+  uuid: ^3.0.7
+
+ 
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/translations/
+    - assets/thanal_logogo.jpg
+    - assets/dialogflow_key.json
+    - assets/splash/splash_screen.png
+    - assets/start.jpg
+    - assets/login.png 
